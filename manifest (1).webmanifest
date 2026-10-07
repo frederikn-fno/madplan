@@ -1,0 +1,14 @@
+{
+  "name": "Madplan – ugens tilbud",
+  "short_name": "Madplan",
+  "description": "Lav en madplan for 7 aftensmåltider ud fra ugens tilbud, og gem den som indkøbsliste.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#15110C",
+  "theme_color": "#15110C",
+  "lang": "da",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
